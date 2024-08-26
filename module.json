@@ -28,6 +28,18 @@
       "github": "delros"
     }
   ],
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "lang/en.json"
+    },
+    {
+      "lang": "es",
+      "name": "Español",
+      "path": "lang/es.json"
+    }
+  ],
   "url": "https://github.com/delrxs/infinite-maps",
   "download": "https://github.com/delrxs/infinite-maps/archive/refs/heads/main.zip",
   "manifest": "https://raw.githubusercontent.com/delrxs/infinite-maps/main/module.json",
