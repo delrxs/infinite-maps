@@ -1,3 +1,4 @@
 {
-    "INFMAP.QueryEnableInfiniteMap": "Is this scene infinite?"
+  "INFMAP.EnableInfiniteMapLabel": "Infinite Map",
+  "INFMAP.EnableInfiniteMapHint": "This will enable procedural generation, the scene area will become boundless, and players' browsers will begin requesting chunks as their camera view uncovers more and more undiscovered chunks but only as long as their assigned token's vision reaches them."
 }

@@ -1,3 +1,4 @@
 {
-    "INFMAP.QueryEnableInfiniteMap": "Es este escenario infinito?"
+  "INFMAP.EnableInfiniteMapLabel": "Mapa Infinito",
+  "INFMAP.EnableInfiniteMapHint": "Esto permitirá la generación procedural ilimitada del mapa, el área de la escena se volverá ilimitada y los dispositivos de los jugadores comenzarán a solicitar fragmentos a medida que la vista de su cámara descubra más y más fragmentos no descubiertos, pero solo mientras la visión de su ficha asignada alcanze tal fragmentos sin descubrir."
 }
