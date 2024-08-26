@@ -18,11 +18,20 @@
       }
     ]
   },
-  "description": "to be done",
+  "description": "Aims to make boundless procedurally-generated maps possible within Foundry VTT.",
   "authors": [
     {
+	  "id": "delros",
       "name": "delros",
-      "discord": "delros"
+      "discord": "delros",
+	  "url": "https://github.com/delrxs",
+	  "github": "delros"
     }
   ]
+  "url": "https://github.com/delrxs/infinite-maps",
+  "download": "https://github.com/delrxs/infinite-maps/archive/refs/heads/main.zip",
+  "manifest": "https://raw.githubusercontent.com/delrxs/infinite-maps/main/module.json",
+  "readme": "https://github.com/delrxs/infinite-maps/blob/main/README.md",
+  "bugs": "https://github.com/delrxs/infinite-maps/issues",
+  "changelog": "https://github.com/delrxs/infinite-maps/releases"
 }
