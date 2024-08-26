@@ -10,7 +10,11 @@
     "requires": [
       {
         "id": "lib-wrapper",
-        "type": "module"
+        "type": "module",
+        "compatibility": {
+          "minimum": "1.0.0.0",
+           "verified": "1.12.15.0"
+        }
       },
       {
         "id": "socketlib",
@@ -27,6 +31,9 @@
       "url": "https://github.com/delrxs",
       "github": "delros"
     }
+  ],
+  "scripts": [
+    "scripts/main.js"
   ],
   "languages": [
     {
