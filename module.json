@@ -1,0 +1,28 @@
+{
+  "id": "infinite-maps",
+  "title": "Infinite Maps",
+  "version": "0.0.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "relationships": {
+    "requires": [
+      {
+        "id": "lib-wrapper",
+        "type": "module"
+      },
+      {
+        "id": "socketlib",
+        "type": "module"
+      }
+    ]
+  },
+  "description": "to be done",
+  "authors": [
+    {
+      "name": "delros",
+      "discord": "delros"
+    }
+  ]
+}
